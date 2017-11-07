@@ -1,2 +1,0 @@
-# learngit
-to learn GitHub
